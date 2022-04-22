@@ -1,4 +1,4 @@
-Dmitlichess
+lichess-copilot
 ===========
 
 Dmitlichess is a Google Chrome extension that improves the default lichess.org sounds with the soothing voice of Dmitri Komarov and Maurice Ashley.
