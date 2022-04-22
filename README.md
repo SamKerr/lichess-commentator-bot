@@ -1,14 +1,10 @@
 lichess-copilot
 ===========
 
-Dmitlichess is a Google Chrome extension that improves the default lichess.org sounds with the soothing voice of Dmitri Komarov and Maurice Ashley.
+Credit to vincentsimard and co, who I forked this from, see https://github.com/vincentsimard/dmitlichess
 
-The extension is published on the Google Chrome store at: https://chrome.google.com/webstore/detail/dmitlichess/haigaafonckooggfpmjplfpbkafelcfe
+lichess-copilot is a Google Chrome extension that improves the default lichess.org sounds with the soothing voice of Dmitri Komarov and Maurice Ashley, GM Yasser Seirawan and NM John Chernoff.
 
-Special thanks to [amazingoid](http://twitch.tv/amazingoid/) and [yerand](http://twitch.tv/yerand/) who helped extracting audio samples, [harishiva](http://twitch.tv/harishiva/) for supplying clips.
+The original extension is published on the Google Chrome store at: https://chrome.google.com/webstore/detail/dmitlichess/haigaafonckooggfpmjplfpbkafelcfe
 
-## August 12th, 2017 update
-Large update to celebrate dmitlichess' 3 year anniversary with the addition of Maurice Ashley's voice, new options and soundboard pages, and plenty of bug fixes.
-
-## January 20th, 2019 update
-The voices of GM Yasser Seirawan and NM John Chernoff added
+I am yet to publish this extension.
